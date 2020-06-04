@@ -6,4 +6,6 @@ public interface B extends A {
     void bb();
 
     void BB();
+
+    void bB();
 }
